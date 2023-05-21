@@ -25,7 +25,7 @@ Digital Level Meter is a project built using an ATtiny85 microcontroller and an 
 The PCB layout files for the Digital Level Meter project are located in the "pcb_layout" directory. The layout files are created using [PCB design software]([https://easyeda.com](https://easyeda.com/)).
 You can use these files to manufacture the PCB for the Digital Level Meter project. Feel free to modify the layout according to your specific requirements.
 
-![PCB Design](PCB/PCB Design.png)
+![PCB Design]("PCB/PCB Design.png")
 
 ## Installation
 
